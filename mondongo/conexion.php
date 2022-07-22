@@ -2,10 +2,10 @@
 
 function conectar(){
     $host="localhost";
-    $user="root";
-    $pass="";
+    $user="id19277826_mondongoddbb";
+    $pass="gY>n]O\a6)wV1>X9";
 
-    $bd="mondongo";
+    $bd="id19277826_mondongo";
 
     $con=mysqli_connect($host,$user,$pass);
 
